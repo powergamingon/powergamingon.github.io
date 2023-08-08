@@ -9,6 +9,14 @@ background-color: #fff;
 color: #111;
 font-family: 'Questrial', sans-serif;
 }
+
+img{
+	padding: 0;
+	display: block;
+	margin: 0 auto;
+	max-height: 100%;
+	max-width: 100%;
+}
  
 .headerwrapper{
 display: flex;
