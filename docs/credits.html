@@ -1,4 +1,11 @@
 <!DOCTYPE html>
+
+<!--
+NOTE: For now, if you use this page in a subfolder, you'll need to add "../" in front of symbolic links (style.css, dragon-vibe-green.gif, any others you add), or iterate that for subsubfolders, etc.
+
+There's a conflict between trying to link to pages in a way that works during offline editing/testing, and doing it in a way that works online. Going straight to the root ("/style.css") doesn't work unless you've put the github repository in your computer's root (why have you done that?), and a hardcoded link ("https://www....") only retrieves the online, published version of the file.
+-->
+
 <html>
   <head>
     <meta charset="UTF-8">
@@ -13,28 +20,22 @@
   </head>
  
 <body>
- 
-  <!-- HEADER - INCLUDE IN ALL PAGES
-    perhaps someday I figure out how to use javascript and this will be replaced with a simpler template.
-    in the meantime include this and (optionally I guess) the footer below in all pages -->
+
   <div class="headerwrapper">
-   
-  <div class="header">
-  <h1 class="title">Powergaming: On</h1>
+    <div class="header">
+      <h1 class="title">Powergaming: On</h1>
+    </div>
+    <div class="nav">
+    <ul>
+      <li><a href="https://powergamingon.github.io/">Home</a></li>
+      <li><a href="https://powergamingon.github.io/gamemaster.html">Reviews & Retrospectives</a></li>
+      <li><a href="https://powergamingon.github.io/players.html">Player Corner</a></li>
+      <li><a href="https://powergamingon.github.io/credits.html">Credits</a></li>
+    </ul>
+    </div>
   </div>
-   
-  <div class="nav">
-  <ul>
-  <li><a href="https://powergamingon.github.io/">Home</a></li>
-  <li><a href="https://powergamingon.github.io/restrospectives.html">Gamemaster's Retrospectives</a></li>
-  <li><a href="https://powergamingon.github.io/players.html">Player Contributions</a></li>
-  <li><a href="https://powergamingon.github.io/credits.html">Credits</a></li>
-  </ul>
-  </div>
-  </div>
-  <!-- END HEADER -->
- 
-<div class="mainwrapper">
+
+  <div class="mainwrapper">
  
 <!-- Site Theme -->
 <div class="box">
