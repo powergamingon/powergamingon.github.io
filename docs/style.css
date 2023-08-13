@@ -30,7 +30,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 height: 200px;
-background-image: url('https://i.imgur.com/aVk0nIs.png');
+background-image: url('https://powergamingon.github.io/headerimg.png');
 background-repeat: no-repeat;
 background-position: center center;
 }
@@ -38,8 +38,11 @@ background-position: center center;
 .title{
 color: #fff;
 letter-spacing: 0.2rem;
-text-shadow: 0 0 10px #111;
+text-shadow: 4px 4px 3px #111;
 font-family: 'Questrial', sans-serif;
+font-style: italic;
+font-weight: bold;
+font-size: 40px;
 }
  
 .nav{
