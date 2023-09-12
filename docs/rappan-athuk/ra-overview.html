@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+
+<!--
+NOTE: For now, if you use this page in a subfolder, you'll need to add "../" in front of symbolic links (style.css, dragon-vibe-green.gif, any others you add), or iterate that for subsubfolders, etc.
+
+There's a conflict between trying to link to pages in a way that works during offline editing/testing, and doing it in a way that works online. Going straight to the root ("/style.css") doesn't work unless you've put the github repository in your computer's root (why have you done that?), and a hardcoded link ("https://www....") only retrieves the online, published version of the file.
+-->
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Powergaming: On</title>
+ 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+    <link href="../style.css" rel="stylesheet" type="text/css" media="all">
+
+  </head>
+ 
+<body>
+
+  <div class="headerwrapper">
+    <div class="header">
+      <h1 class="title">Powergaming: On</h1>
+    </div>
+    <div class="nav">
+    <ul>
+      <li><a href="https://powergamingon.github.io/">Home</a></li>
+      <li><a href="https://powergamingon.github.io/gamemaster.html">Reviews & Retrospectives</a></li>
+      <li><a href="https://powergamingon.github.io/players.html">Player Corner</a></li>
+      <li><a href="https://powergamingon.github.io/credits.html">Credits</a></li>
+    </ul>
+    </div>
+  </div>
+
+  <div class="mainwrapper">
+
+  <!-- Use this to set a "back" to a navigation page for your subsection of the website
+
+  <a href="URL" style="text-decoration: none; font-size: 20px">
+  <div class="box" style="max-width: 200px;">
+      <p>&larr; Back</p>
+  </div>
+  </a>
+
+  -->
+   
+  <!-- You can make "content boxes" like this:
+
+  <div class="box">
+    <h3 class="subheaders">Header Here</h3>
+    <div class="content">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec ante at ante semper tempus nec vel nisl. Sed aliquet velit porttitor ullamcorper interdum. Integer ac lacus et odio volutpat sagittis non et elit. Nunc rutrum viverra justo, eu eleifend elit. Vestibulum molestie, diam vel ornare placerat, lectus ante imperdiet nisi, et efficitur velit elit tempus felis. Suspendisse nibh tellus, volutpat ac elit vel, dignissim viverra leo. Pellentesque eu molestie diam.</p>
+    </div>
+  </div>
+   -->
+
+   <div class="box">
+    <h3 class="subheaders">Rappan Athuk Overview</h3>
+    <div class="content">
+      <p>Ok. I wrote a (relatively) brief review of the 3E Rappan Athuk adventure modules, and I would like to go through to document my experiences with it, piece by piece. Linking those two levels of depth, this is going to be a longer, more DM-specific overview of the modules. I'll talk a bit more about the goals and structures of the dungeon, and what it's like to run it. Basically, what I would have found helpful to learn from another DM when I was deciding whether to run this module.</p>
+
+      <p>So, as stated before, Rappan Athuk is a megadungeon, which here means a massively interconnected web of sections of the Underdark that the players can explore more or less at will. <img src="ra-cover-1.png" alt="A book cover, labeled Rappan Athuk: The Dungeon of Graves: The Upper Levels in red text. There's a marbled green border, and at the center is an illustrated battle scene where enormous green statue-like figures attack 3 people." style="float:right; margin:5px; border: 3px #cccccc solid; width: 33%"> Of course, if they push forward into the deeper levels before they're powerful enough, they'll be killed, but they can try it if they want. A megadungeon is a bit of an odd, ambitious project; the goal is to provide a full campaign, spanning many power levels of the PCs, all in the same contained space. As such, there's not very many of them. Castle Greyhawk, the setting of Gygax's own original D&D game, is an example, as is Faerun's Undermountain. As suits the dungeon environment, they're focused on traps and combat more than on other aspects of roleplaying.</p>
+
+      <p>That, as I repeatedly stressed in the short review, immediately constrains which groups will be interested in Rappan Athuk. There's some fun and occasionally surprising mix-ups to be had, but broadly speaking the only thing going on here is a dungeon crawl. Kick the door down, kill the monsters, steal the treasure, repeat. You're still reading, so let's assume you're on board.</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="content">
+      <p style="text-align:center; font-size:20px"><em>Here Be Dragons!</em></p>
+      <p style="text-align:center">
+        <img src="../dragon-vibe-red.gif"
+        alt="Five red dragons seen from different angles, undulating gently.">
+      </p>
+      <p style="text-align:center">This article contains substantial information about Rappan Athuk: The Dungeon of Graves. Players beware!</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <h3 class="subheaders">The Fluff</h3>
+    <div class="content">
+      <p><img src="orcus.png" alt="A greyscale sketch Orcus. He looks a bit like a satyr, a fat humanoid with goat-like legs and head. He has enormous bat wings and a classic forked devil tail. He holds up a staff topped with a skull." style="float:left; margin:5px; border: 3px #cccccc solid; width: 33%">The history of Rappan Athuk is given in a short narration at the beginning of each book. A number of years ago, the worshippers of Orcus were driven out of a city. The remnants of the evil cult vanished in the wilderness, along with the heroic army that pursued them. Of course the priests hadn't been destroyed for good, but had found the caves and tunnels that would become Rappan Athuk. There the cult of Orcus began anew, carving out their temples from the earth and erecting a mausoleum to mark its entrance. With the site rediscovered, many adventurers have attempted to root out the evil haunting the forest, but none have succeeded...</p>
+
+      <p>This blurb hints at some of the plots that characters can follow through the dungeon, in particular discovering the fate and eventual resting place of a hero named Bofred. It's a good starting point to motivate characters and lines of inquiry if players start feeling lost. The introductions also list some rumors about the dungeon, which are a nice mix of true, misleading, and outright false tidbits of information you can give out to players.</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="content">
+      <p>As suggested in the "opening narration," there are now 3 temples of Orcus that players must find and destroy. After this they may travel a secret path to the demiplane on which Orcus himself resides. The destruction of the temples is technically optional, but each one reduces Orcus's power as a god, so failing to do so will leave the final battle very difficult.</p>
+
+      <p>The 3 temples (on levels 4, 9, and 14) roughly delineate the upper, middle, and lower levels of the dungeon. The first temple serves as a weak choke point; there are ways past it to the lower levels, but only a few, and PCs who are too low level to confront the temple won't find them easy to traverse. Once the first temple is defeated, PCs can be assured that they're powerful enough at least to escape from most threats, and the dungeon opens up to allow dozens of possible paths forward.</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="content">
+      <p>Besides the temples, the main power structure the characters will interact with is the goblin city, Grezneck, at level 12A. Goblin scouts and travellers are encountered even in the highest levels, so locating the city becomes a quest in its own right. Grezneck is the one part of the dungeon that players aren't supposed to blaze through like wildfire; it's a genuine population center, and while the book does provide some encounters and battles there, it emphasizes that indiscriminately slaughtering the inhabitants would not exactly be heroic. For parties that can't teleport around easily, Grezneck could be a welcome safe haven in the otherwise hostile lower levels.</p>
+
+      <p>Of course, the power structure of the city is evil, controlled by (goblin) priests of Orcus like most of the area, so your mileage on this will depend on your players' willingness to keep the peace. It's worth thinking early on about how you want to portray the goblins.</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="content">
+      <p>I suggest you look out for these bits of fluff and get familiar with their "sidequests" before you start running Rappan Athuk. They provide goals more concrete than just "explore," and give moments of satisfaction and payoff outside of the straightforward battle against Orcus. Whenever the hints come up, they're well-described in the text, but it will help you know what to highlight as well as how to answer divinations if the players attempt any. If you don't want to go over the whole thing with a fine-toothed comb before you start playing, the main names I got mileage out of were:
+
+      <ul style="padding-left: 2rem;">
+        <li>Bofred, a cleric of Heironeous who was lost in the dungeon (see: the intro text and Level 14)</li>
+        <li>Akbeth, a cleric of Hecate, and her lover Agamemnon (see: Levels 9A-C and Level 11)</li>
+        <li>Grezneck, the Goblin City (see: Level 12A)</li>
+      </ul>
+    </p>
+    </div>
+  </div>
+
+  <div class="box">
+    <h3 class="subheaders">Dungeon Structure</h3>
+    <div class="content">
+      <p>Yeah, so... speaking of those "dozens of paths" forward.</p>
+
+      <p>Each chapter of Rappan Athuk notes how the floor it describes connects to the others. Here's my best attempt at a parsable flowchart of those connections. Arrows point "downwards," and dots of the same color are subfloors at the same level (4, 4A, etc). Thick lines are easy paths like staircases, medium lines are underground rivers, and thin lines are nonobvious connections such as crawling through rat tunnels.</p>
+
+      <p style="text-align: center;"><img src="ra-flowchart.png" alt="Over two dozen circles of various colors labeled with the names of floors of Rappan Athuk, and connected by grey lines of varying widths. It's quite complicated." style="float:right; margin:5px; border: 3px #cccccc solid; width: 100%"></p>
+
+      <p>Even beyond this chart, there's strange, one-way, or one-time passages that I didn't include, like teleportals to the temples and a few paths from lower levels to the surface.</p>
+
+      <p>In most practice, this level of complexity is quite good! It lets the PCs find routes forward without scouring every part of the map or finding the single correct solution to a problem. It also lets the adventure stretch or shrink to fit the group, depending on how many nooks and crannies they choose to stick their noses into.</p>
+
+      <p>But it's hell to keep track of, and even the most diligent note-taking players will almost certainly get lost. Go ahead and take this graph (or make your own; I used a site called Flourish) to keep track of abstract routes through the dungeon. I wish they had included something like it in the modules. Unless you're deliberately letting your players get lost and confused (valid, but not my playstyle), you should probably also give them overviews like this every once in a while. Otherwise it's very easy to lose track of unexplored passages or how to get between locations.</p>
+
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="content">
+      <p>I made two major changes to this structure that I think it's worth pointing out. First, can you locate Level 4A on that map? It's light green.</p>
+
+      <p>You'll notice that the only direct path to Level 4A is via Level 3A, The Well. But 3A is an EL 9 area, and 4A is EL 5. If the players are prepared for The Well, they'll be bored stiff by this level!</p>
+
+      <p>The main encounters on 4A are with basilisks, who are CR 5 creatures. These are iconic and terrifying monsters who should make for a memorable encounter... until the PCs can reliably make a DC 13 save or access <em>stone to flesh</em>, at which point they become trivial. Meeting these basilisks at the right level is important!</p>
+
+      <p><img src="ra-flowchart-2.png" alt="A flowchart with 7 labeled nodes, depicting the modified flow of the upper levels of the dungeon as suggested in the text." style="float:right; margin:5px; border: 3px #cccccc solid; width: 45%">Meanwhile, there's two ways out of Level 2, a staircase leading to Level 3 and a rough tunnel leading to wierd side caverns of Level 4. Either of these options will be scary to characters who have only traversed Levels 1 and 2; despite Level 2 being labeled EL 6, the players are probably only level 4 or 5 at this point. Sending them straight to the Upper Temple of Orcus on Level 4 will just get them killed, and above the entrance to Level 3 someone has written "Beware of Purple Worms!"</p>
+
+      <p>(By "someone" I mean the famous wizard Speigle. Archmages in Rappan Athuk have invariably stupid names, I've found.)</p>
+
+      <p>Anyways, my advice is to simply swap the entrances to 4 and to 4A. Going from The Well into the outskirts of the Upper Temple on Level 4 is completely level-appropriate, and low-mid-level characters who are frightened by the promise of purple worms will be appropriately challenged by 4A.</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="content">
+      <p>Second, there's large camps of goblin miners on Level 10A, the Great Cavern. This massive cavern serves as a bit of a crossroads for the lower levels, with links to many parts of the dungeon. Notably, that does <em>not</em> include the goblin city of Grezneck on 12A. From a close reading, I think this is supposed to be a completely separate and possibly rival group of goblins.</p>
+
+      <p>Grezneck is actually pretty hard to get to. The entrance from 9A requires players to sneak past a pair of shadow dragons (fighting them is likely a bad idea until late in the campaign). The rest are roundabout secret entrances, mostly found by dangerous endeavors like falling into pit traps or swimming through tar pits (seriously).</p>
+
+      <p>I added a long tunnel from the goblin mines on 10A, that reaches Grezneck in the same area as the tunnel from 9A. This simplifies the goblin politics (that your players are probably not <em>that</em> interested in, if you're running this megadungeon) and makes it more straightforward to enter and leave the city in a peaceful manner.</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <h3 class="subheaders">Onwards...</h3>
+    <div class="content">
+      <p>From here, it's time for the nitty-gritty details. I won't do an entire page for every single floor, because some of them are small or just not particularly interesting to talk about. But I will touch on every floor of the dungeon - all 27 of them!</p>
+
+      <p>First up: Levels 0 through 2, the ground-level entrance to the dungeon and its first few floors. Let's get into this!</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="content">
+      <p><en>Link forthcoming.</en></p>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="box">
+  <div class="content">
+  <p style="text-align:center">
+    <img src="../dragon-vibe-green.gif"
+    alt="Five green dragons seen from different angles, undulating gently.">
+  </p>
+  </div>
+  </div>
+  <!-- END FOOTER --> 
+
+
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('COMMENTBOXID', {sortOrder: 'oldest'})</script>
+
+
+</body>
+ 
+</html>
