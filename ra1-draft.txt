@@ -1,0 +1,64 @@
+The ground level of Rappan Athuk is small, but it manages to be pretty emblematic of the dungeon's design.
+
+The Dungeon of Graves is presumed to be found somewhere deep in the wilderness. Later expansions added to the surroundings, but I didn't use those so I can't comment on them. In true evil priest fashion, the clerics of Orcus have inexplicably built a graveyard to mark the location of their secret underground dungeon. It's also shaped like a cross; it will be a recurring theme that the evil pagan priests of Oerth are seemingly also Catholic. Don't worry about it.
+
+Special gargoyles guard the entrance to the mausoleum and try to pick up and drop intruders, which is a fun fight but potentially quite punishing for 3rd-level characters. Consider subtly encouraging the presence of at least one <em>feather fall</em> in your group before they arrive.
+
+Across the graveyard is "The Well." Background information repeatedly stresses that previous adventurers always warn "don't go down the Well," and there's ominous claw marks as if something tried to climb out of it. This doesn't seem to actually mean much, and the origin of the claw marks is never addressed. The background information exists mostly to convince players to avoid taking a shortcut to a much higher-level area. This is pretty disappointing; I added a bound dragon at the bottom of the Well to make it a bit more exciting.
+
+And there's the mausoleum itself, which guards the proper entrance to the dungeon. <em>Tomb of Horrors</em> would be proud of the arbitrary cruelty of this one. The mausoleum is locked but can be picked open fairly easily. However, if players do that, then once they enter the mausoleum will re-lock and crush them to death; only <em>stone shape</em> or similar powers could potentially get them back out before they die. In order to safely enter the mausoleum, they first have to examine every gravestone until they find one with a secret compartment containing the key.
+
+Good Puzzle Design (TM)!
+
+Honestly, your players <em>should</em> be suspicious enough to go searching. Those willing to press forward without care aren't going to have a good time in this dungeon. To give them a fair chance you only really need two changes. One, let a rogue find the trap with a fairly low (DC 15?) search-for-traps check; for the mystery, tell them only that there's magic to this key as well as a physical component. Two, the key's location should show up under a <em>detect magic</em> spell.
+
+Not much else to say about this one; it's a short introduction to the dungeon, not a full floor. But this is where you will have to decide whether to lean into the "1st Edition Feel" or give your players a couple more clues to work from.
+
+
+--
+
+Ah, the 1st level of Rappan Athuk, the lair of the "dung monster."
+
+Ok, honestly, most of the dungeon is better than these first two floors. The designers seem to have gotten the "arbitrary death traps" urge out of their systems early, and from here on the sailing is much smoother (though certainly not free of bumps). But these two encounters - the mausoleum and the "dung monster" - get a lot of publicity because most players don't make it much further!
+
+The dung monster is a wierd DM-fiat sort of encounter based mostly on childish jokes. It's a mimic that haunts a set of pit toilets, and is, er, appropriately mutated. It's said to have gained its bizarre powers when an archmage had to go #2.
+
+Yeah, idk, do what you want with this one.
+
+The dung monster is the absolute worst of Rappan Athuk's unclear understanding of 3E rules, which is why it's a shame that it's encountered so early. It's described as a mutated super-powerful mimic even though it's actually the same CR as a normal one. Yet despite its CR 6 designation, it has SR 60 and Regeneration 50, with no method given for bypassing the regeneration. It some senses, it's actually harder to kill than a tarrasque!
+
+But none of that really matters much, because the actual purpose of this encounter is that the players enter a mysterious room, probably at least one of them dies, and then they run away. The stats don't matter because the outcome is prewritten.
+
+I do think it's good to keep some kind of exceptional encounter here. Rappan Athuk players should be willing to run when necessary, and now is a good time to make sure they know that. If you've had your party start at level 3, using the stats for a regular mimic (perhaps with a bit extra SR or DR) will be essentially just as effective at terrorizing the group. Whether the dung monster is the right shape for it depends mostly on how funny you think poop jokes are.
+
+In my campaign, one of the characters caught by the mimic set off their entire necklace of fireballs from inside it, which destroyed the creature.
+
+Besides some nice if inexplicable set pieces (the priests have left the players a poisoned tarot deck to find), the main plot on this floor is the most classic low-level D&D monster: rats! In this case, the 1d3 dire rats come with wererat leaders, and it's a fun ambush encounter with multiple types of combatants and terrain challenges. It starts with a wererat pretending to be a beautiful woman, lost and scared and asking for help. This will probably fool your players for approximately a millisecond, but it's fun.
+
+And that's about it, as level 1 is appropriately the most straightforward level of the dungeon. Onwards to level 2!
+
+--
+
+Level 2 might be the least coherent of any in Rappan Athuk, strangely enough. They couldn't even come up with a funny name for it, simply rhyming "Marthok's Place and Ambro's Base" after the barbarian and ogre found here. There's also ghouls and an animated broom sweeping a storeroom, and a locked door with a super-powerful skeleton blackguard behind it. It's intended to resist characters until they're more powerful, but (un)lucky rogues might manage to pick the lock anyways, in which case Saracek will probably kill them.
+
+He's an example of a favored theme in Rappan Athuk, a former hero who was died and was corrupted (not necessarily in that order), and now serves Orcus as an undead monster. He's also an example of a common structure, a well-hidden or blocked encounter that's much higher level than the surrounding area. Most of these are unlikely to be found except by divination, which is reasonable as stumbling on them early is a death sentence. They're frequent subjects of the rumors the modules give out, so use those to control when and how you want your players finding them.
+
+(I think they're also frequently a relic of that "1st Edition Feel," where you're <em>supposed</em> to say things like "I'm going to take several hours and carefully search the entire corridor." 3E discourages that sort of thing by asking for a skill check every [unit], wasting your time out-of-character as well as in. Obviously most parties abstract this to some extent - as written a single search check only covers a 5-foot square! - but you still have a norm that characters probably won't do things the players would find super boring.)
+
+Marthok can be a good encounter - as a level 6 barbarian capable of raging, he's a major threat to the party. But he doesn't fight to the death, and if the PCs attempt to find out why they might be able to help him and even get him on their side. Telegraph this hard if you want your players to pick up on it.
+
+Marthok's stat block seems to think he's wielding his greatclub one-handed, and his tactics note makes no mention of his Power Attack feat. My suggestion: downgrade his club to +1 (a +2 weapon is a bit overkill for this level), but have him fight two-handed. This increases his damage modifier to +10 (+13 when raging). Then make strong use of that Power Attack (and remember that a power attack bonus is doubled when fighting two-handed!); attack at at least -2 for a +4 damage bonus. 
+
+These changes will be absolutely deadly to a party that is likely 4th level - he might knock down a squishy wizard with a single hit. To compensate, have the enraged barbarian focus on armed and aggressive targets. 
+
+The text also includes a spike on which Marthok can attempt to impale opponents, leaving them dangling for later (I assume the implication is that he'll eat them). If your party isn't squeamish, you can actually use this to save battered PCs, since it does less damage on average than the greatclub.
+
+My suggestion: If most of the frontline combatants are below half health, or if a PC goes down, Marthok drops his club and attempts to pick up and impale the biggest attacker. Replace his Improved Unarmed Strike feat with Improved Grapple so that this doesn't provoke attacks of opportunity, but he'll be moving around to do it so PCs will get extra attacks on him, and he'll stop outputting signficant damage. Smart PCs will try to pick up his club before he can come back for it. This process should be sufficiently gory to scare the players, but reduces Marthok's damage output enough that they'll probably get him to half health (and hence convince him to flee and cower) before they all die outright.
+
+Once Marthok is wounded and attempts to flee, his rantings might cause PCs to pause before finishing the job. But as written they probably can't actually break the curse on him until they're much higher level. Instead, attempts to talk with the cowering barbarian (after he tries showering them with green slime) should make it clear that he's cursed and fighting against his will. So long as he's wounded, Marthok won't pursue the PCs, and they can return later. They may try to net themselves some insurance on that, such as by jamming his door shut.
+
+--
+
+Ok, level 3, and now we're finally getting to the complex and interesting parts of the dungeon. Level 3 is the infamous Well that characters are not supposed to go down, so we also reach our first chronicity jump; players will probably go elsewhere from level 2 before circling back here. 
+
+A function from metric spaces to metric spaces. 
