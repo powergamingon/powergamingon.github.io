@@ -1,12 +1,12 @@
 The ground level of Rappan Athuk is small, but it manages to be pretty emblematic of the dungeon's design.
 
-The Dungeon of Graves is presumed to be found somewhere deep in the wilderness. Later expansions added to the surroundings, but I didn't use those so I can't comment on them. In true evil priest fashion, the clerics of Orcus have inexplicably built a graveyard to mark the location of their secret underground dungeon. It's also shaped like a cross; it will be a recurring theme that the evil pagan priests of Oerth are seemingly also Catholic. Don't worry about it.
+The Dungeon of Graves is presumed to be found somewhere deep in the wilderness. Later expansions added to the surroundings, but I didn't use those so I can't comment on them. In true evil priest fashion, the clerics of Orcus have inexplicably built a graveyard to mark the location of their secret underground dungeon. It's also shaped like a cross; it will be a recurring theme that the evil priests of Oerth are seemingly also Catholic. Don't worry about it.
 
 Special gargoyles guard the entrance to the mausoleum and try to pick up and drop intruders, which is a fun fight but potentially quite punishing for 3rd-level characters. Consider subtly encouraging the presence of at least one <em>feather fall</em> in your group before they arrive.
 
-Across the graveyard is "The Well." Background information repeatedly stresses that previous adventurers always warn "don't go down the Well," and there's ominous claw marks as if something tried to climb out of it. This doesn't seem to actually mean much, and the origin of the claw marks is never addressed. The background information exists mostly to convince players to avoid taking a shortcut to a much higher-level area. This is pretty disappointing; I added a bound dragon at the bottom of the Well to make it a bit more exciting.
+Across the graveyard is "The Well." Background information repeatedly stresses that previous adventurers always warn "don't go down the Well," and there's ominous claw marks as if something tried to climb out of it. This doesn't seem to actually mean much, and the origin of the claw marks is never addressed. The background information exists mostly to convince players to avoid taking a shortcut to a much higher-level area before they're ready. This is pretty disappointing; I added a bound dragon at the bottom of the Well to make it a bit more exciting.
 
-And there's the mausoleum itself, which guards the proper entrance to the dungeon. <em>Tomb of Horrors</em> would be proud of the arbitrary cruelty of this one. The mausoleum is locked but can be picked open fairly easily. However, if players do that, then once they enter the mausoleum will re-lock and crush them to death; only <em>stone shape</em> or similar powers could potentially get them back out before they die. In order to safely enter the mausoleum, they first have to examine every gravestone until they find one with a secret compartment containing the key.
+And there's the mausoleum itself, which guards the proper entrance to the dungeon. <em>Tomb of Horrors</em> would be proud of the arbitrary cruelty of this one. The mausoleum door is locked but can be picked open fairly easily. However, if players do that, then once they enter the mausoleum will re-lock and crush them to death; only <em>stone shape</em> or similar powers could potentially get them back out before they die. In order to safely enter the mausoleum, they first have to examine every gravestone until they find one with a secret compartment containing the key.
 
 Good Puzzle Design (TM)!
 
@@ -39,9 +39,9 @@ And that's about it, as level 1 is appropriately the most straightforward level 
 
 --
 
-Level 2 might be the least coherent of any in Rappan Athuk, strangely enough. They couldn't even come up with a funny name for it, simply rhyming "Marthok's Place and Ambro's Base" after the barbarian and ogre found here. There's also ghouls and an animated broom sweeping a storeroom, and a locked door with a super-powerful skeleton blackguard behind it. It's intended to resist characters until they're more powerful, but (un)lucky rogues might manage to pick the lock anyways, in which case Saracek will probably kill them.
+Level 2 might be the least coherent of any in Rappan Athuk, strangely enough. They couldn't even come up with a funny name for it, simply rhyming "Marthok's Place and Ambro's Base" after the barbarian and ogre found here. There's also ghouls and an animated broom sweeping a storeroom, and a locked door with a super-powerful skeleton blackguard named Saracek behind it. It's intended to resist characters until they're more powerful, but (un)lucky rogues might manage to pick the lock anyways, in which case Saracek will probably kill them.
 
-He's an example of a favored theme in Rappan Athuk, a former hero who was died and was corrupted (not necessarily in that order), and now serves Orcus as an undead monster. He's also an example of a common structure, a well-hidden or blocked encounter that's much higher level than the surrounding area. Most of these are unlikely to be found except by divination, which is reasonable as stumbling on them early is a death sentence. They're frequent subjects of the rumors the modules give out, so use those to control when and how you want your players finding them.
+Saracek is an example of a favored theme in Rappan Athuk, a former hero who died and was corrupted (not necessarily in that order), and now serves Orcus as an undead monster. He's also an example of a common structure, a well-hidden or blocked encounter that's much higher level than the surrounding area. Most of these are unlikely to be found except by divination, which is reasonable as stumbling on them early is a death sentence. They're frequent subjects of the rumors the modules give out, so use those to control when and how you want your players finding them.
 
 (I think they're also frequently a relic of that "1st Edition Feel," where you're <em>supposed</em> to say things like "I'm going to take several hours and carefully search the entire corridor." 3E discourages that sort of thing by asking for a skill check every [unit], wasting your time out-of-character as well as in. Obviously most parties abstract this to some extent - as written a single search check only covers a 5-foot square! - but you still have a norm that characters probably won't do things the players would find super boring.)
 
@@ -59,6 +59,82 @@ Once Marthok is wounded and attempts to flee, his rantings might cause PCs to pa
 
 --
 
-Ok, level 3, and now we're finally getting to the complex and interesting parts of the dungeon. Level 3 is the infamous Well that characters are not supposed to go down, so we also reach our first chronicity jump; players will probably go elsewhere from level 2 before circling back here. 
+Level 3 is pretty interesting. It has the potential to be very deadly, but PCs heading straight there probably shouldn't be outright engaging with most of the inhabitants. As mentioned previously, the renowned Archmage Speigle has written "beware of purple worms" above the staircase from Level 2, so both characters and players are sufficiently forwarned. If you've somehow managed to attract solely players with no idea what that means, Knowledge (arcana) is the key skill for magical beasts and can inform players of what they're up against; Knowledge (dungeoneering) would also concievably help.
 
-A function from metric spaces to metric spaces. 
+For some reason the stat block given in the module is a CR 10 purple worm, rather than their actual CR of 12 (and this isn't a 3.5 vs. 3.0 thing; they were CR 12 in 3.0 as well). If you're using the module's version you should probably make sure your players know that.
+
+If they're even vaguely aware of purple worms, the party will probably choose to avoid the area instead of going straight there from Level 2. If you followed my suggestion in the overview, the other exit from Level 2 will take them to the basilisks on 4A. Otherwise, they're a bit stuck between this and the Upper Temple on Level 4, and either way will be hiding rather than fighting for a bit.
+
+Despite its high-level inhabitants, Level 3 <em>can</em> be appropriate for a party that's only visited floors 0-2. This is an encounter structure that 3rd Edition and later versions of D&D mostly removed, but which was common previously. Sufficiently forwarned characters should choose care, stealth, and tactical retreats over a battle to the death. Walking softly and staying close to the walls will help players continue exploring while avoiding a worm-fueled TPK. Expect lots of <em>Dune</em> jokes. Given them level-appropriate XP if they manage it.
+
+If you're playing with modern D&D players who aren't used to this, you may need to prod and reassure them a bit to get them to try it. Up to you if you want to.
+
+There's a few interesting and less deadly encounters to be had as well; the party may run into goblin scouts (presumably from Grezneck, if you'd like to start pointing them towards the city) as well as priests of Orcus from the Upper Temple. This level also contains the Oracle, an evil skull that will perform divinations in exchange for magic items. I suggest making the Oracle neutral instead, partially so it has less motivation to lie to the players and partially so that parties with paladins or paladin-like characters don't feel obligated to destroy it. If the party talks to the Oracle, it's a great way for you to dispense dungeon rumors and clue them to directions you want them to take.
+
+However, none of that is why I'm here. I'm here for my favorite encounter in the entire dungeon.
+
+Scramge the Rakshasa and his "jackalwere" servants inhabit rooms 3-5A through C. Scramge is mostly a reguar rakshasa who has been endowed with the ability to create perfect illusions as a caster level 11 sorcerer - this is done via at-will castings of the 6th-level spells <em>permanent image</em> and <em>veil.</em> He can make his rooms look however he wants, and can freely change the appearance of any person. His illusions can also target all senses even if the spell normally wouldn't.
+
+The suggested tactic is for Scramge to lure in the PCs, then create an illusion where one of them is killed by a demon or other summoned creature. In reality, the illusion of the summon covers the character he pretended to kill, so that when the rest of the party attacks the illusion they actually injure their own companion!
+
+You can have a lot of fun with this. Let's go over it part by part.
+
+The Lure
+
+Unfortunately, despite the fun idea, the setups that the module suggests probably won't work. It gives three different <em>permanent image</em> setups, which it keys to different average party levels for some reason. I think the setups are supposed to balance how threatening they seem to parties of different levels, but they definitely don't. In brief, Scramge portrays himself and his servants as either a cleric who's imprisoned a bunch of werewolves, a human man being tortured by orcs, or a welcoming oracle-figure with pretty and scantily-clad attendants.
+
+The cleric-and-werewolves setup may work, but the other two don't really accomplish what they're suppposed to. The goal of this part is to get PCs to enter Scramge's rooms without immediately starting a fight. Scramge needs time to observe and replicate his victim, and he wants his jackalweres to surround the party and cut off their exit.
+
+But in the case of the orcs, the party is likely to attack immediately, particularly if they think someone is actively being tortured, and the harem-scene is so obviously out of place that the party will be on the defensive immediately. The setup with werewolves may work to delay the start of the encounter, but it necessarily traps the jackalweres so that they can't surrounded the PCs.
+
+I'd suggest you evaluate your party's susceptibility to different setups, and be ready for even the most airtight scene to trigger the players' suspicions within a few moments. I tried portraying the group as a band of nervous refugee-adventurers, too afraid to venture back across the purple worm cavern to reach the surface. This has the advantage that "many adventurers have never returned from the dungeon" is a well-established bit of lore, so it's a reasonably plausible scenario. By being completely peaceful, it also discourages the PCs from being the ones to start the violence.
+
+Even so, my group was deeply suspicious and I think they only went in the room because they could tell I wanted them to. So maybe don't take my advice on this particular aspect of the encounter.
+
+Springing the Trap
+
+I strongly suggest that you conspire with one of your players beforehand, if they're a halfway decent actor. Scramge targets paladins and clerics first, if you need help choosing a victim. Let them know what's going to happen and get their help in selling the dramatic death of their character. They technically get a Will save to resist the <em>veil</em> that Scramge drops on them - ask them if you can wave this to avoid derailing the encounter (most players, in my experience, will find it fun to be involved in the conspiracy).
+
+As the PCs get more suspicious, give them Spot checks to notice that the jackalweres (however they're disguised) have been subtly fanning out and surrounding them. Then Scramge drops back and casts a spell as the weres shapeshift and attack. Pretend he's cast a summon, though it's really the <em>veil</em> spell.
+
+Check the your conspirator's hp before the session, roll attacks in secret, and announce that an extremely unlucky string of criticals has done an amount of damage which - greatest of misfortunes - turns out to drop them below -10 hp immediately. Everyone else, roll initiative!
+
+(Make sure you choose an illusion of a creature which could conceivably manage this. I used a bebilith, the module recommends a vrock.)
+
+Anyone who succeeded on the Spot check gets to keep their turn during the surprise round. The jackalweres immediately shapeshift and attack; their shifting disguises Scramge's illusions leaving them.
+
+Your goal is that the players think the trick was only the shapeshifting jackalweres. Scramge should stay in his illusory form and act like a sorcerer until they catch on.
+
+Running the Fight
+
+This is one of the few places that playing online rather than in person can make for a great roleplaying opportunity; you can message your collaborator in secret to decide what their character does while covered by the illusion. In person, you may want to offer them control of the illusory summon, excusing it as a way for them to have something to do after the unfortunate demise of their character. You have a lot to keep track of anyways.
+
+Either way, Scramge's illusions can't actually do damage, so you're going to need to figure out an excuse for that if you want the lie to last. As a suggestion, have Scramge cast an area spell and disguise it as some action of the creature (for the aforementioned bebilith, it can cast <em>web</em>).
+
+If you can communicate with your conspirator, you could also let them take actions that you then cover up using the illusion; for example, if they see their friends attacking them, they may attack back, which you would describe to the others as the summon attacking.
+
+Carefully read the rules on disbelieving illusions. Once the PCs interact closely with one, they start getting Will saves, which you should make in secret until they realize something's up. Distract them with the jackalweres to help it last longer. If you can pull this off, it will be a very memorable encounter.
+
+If the character covered by Scramge's illusion is knocked unconcious or dies, the illusion over them either vanishes (if the party is getting wrecked and you want them to realize what's going on) or has to stay in one place to keep covering the character (to give just a hint that something funky is going on).
+
+Level Adjustment
+
+If the players avoided Level 3 until they felt comfortable braving the purple worms, they're probably at least level 8 and this is a completely reasonable encounter. For higher-level characters, simply scale up the jackalweres and add a few extras. You probably want them to be around 3 challenge ratings below the party's level. Then make sure that Scramge's caster level is higher than the party level, and give him Charisma-boosting items if needed to prevent the party from easily disbelieving his illusions.
+
+If the players braved Level 3 early on, though, they're absurdly low level for this encounter, possibly only level 5 or 6. Fortunately, though Scramge may be difficult to damage with non-magical weapons, he doesn't actually do damage with his illusions. Leave the jackalweres as-is, don't use damaging area spells, and have Scramge escape through his mirror once he's discovered, swearing revenge. Unfortunately for him, by the time he returns the party has likely leveled up enough to send him to the Abyss the hard way.
+
+Version Conversion
+
+One of the main differences between 3.0 and 3.5 is how damage reduction is handled, and rakshasas got a major rework. In 3.0, which Rappan Athuk is using, rakshasas are specifically vulnerable to <em>blessed</em> crossbow bolts. In 3.5, they don't have this vulnerability but are instead vulnerable to good and piercing weapons (note "and," not "or").
+
+This is something you'll run into a lot with Rappan Athuk. Broadly speaking, monsters in 3.5 had their damage reduction reduced and their hp/HD increased. I find that this leads to better balance in general. If you want to convert on the fly, a decent approximation is that if the module tells you a creature has DR 15 or greater, change it to DR 10/magic and multiply their hp by 1.5.
+
+Treasure
+
+Scramge is a difficult encounter, but he has way too much treasure. PCs will get loaded up in other areas of the dungeon anyways, but I suggest removing the <em>ring of three limited wishes</em> and the 1200 pp, and replacing the <em>+1 large wooden shield of rust monster scales</em> with a different shield or weapon that one of your party will be more excited about.
+
+And a note
+
+As creatures taken from Hindu mythology, rakshasas are rather vulnerable to the 3rd Edition writers being fuckin' wierd about that, and unfortunately Rappan Athuk isn't a great example. The pseudo-harem scene is frustrating but easily avoided; also, among Scramge's posessions are silks, opium, and pipes (...I'm not sure if the writers are mixing up their mythologies or mixing up their racisms here). You probably just want to discard those; replace their value with the tapestries that he has hanging about, which aren't included in the treasure round-up. Or otherwise treat this as suits your group; just felt it necessary to give a heads-up.
+
+Problem 2.94 in the book! explain in words.
