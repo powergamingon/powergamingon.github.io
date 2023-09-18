@@ -1,6 +1,6 @@
 The ground level of Rappan Athuk is small, but it manages to be pretty emblematic of the dungeon's design.
 
-The Dungeon of Graves is presumed to be found somewhere deep in the wilderness. Later expansions added to the surroundings, but I didn't use those so I can't comment on them. In true evil priest fashion, the clerics of Orcus have inexplicably built a graveyard to mark the location of their secret underground dungeon. It's also shaped like a cross; it will be a recurring theme that the evil priests of Oerth are seemingly also Catholic. Don't worry about it.
+The Dungeon of Graves is presumed to be found somewhere deep in the wilderness. Later expansions added to the surroundings, but I didn't use those so I can't comment on them. In true evil priest fashion, the clerics of Orcus have built a graveyard to mark the location of their secret underground dungeon. The graveyard is shaped like a cross; it will be a recurring theme that the evil priests of Oerth are inexplicably also Catholic. Don't worry about it.
 
 Special gargoyles guard the entrance to the mausoleum and try to pick up and drop intruders, which is a fun fight but potentially quite punishing for 3rd-level characters. Consider subtly encouraging the presence of at least one <em>feather fall</em> in your group before they arrive.
 
@@ -59,7 +59,7 @@ Once Marthok is wounded and attempts to flee, his rantings might cause PCs to pa
 
 --
 
-Level 3 is pretty interesting. It has the potential to be very deadly, but PCs heading straight there probably shouldn't be outright engaging with most of the inhabitants. As mentioned previously, the renowned Archmage Speigle has written "beware of purple worms" above the staircase from Level 2, so both characters and players are sufficiently forwarned. If you've somehow managed to attract solely players with no idea what that means, Knowledge (arcana) is the key skill for magical beasts and can inform players of what they're up against; Knowledge (dungeoneering) would also concievably help.
+Level 3 is pretty interesting. It has the potential to be very deadly, but PCs heading straight there probably shouldn't be outright engaging with most of the inhabitants. As mentioned previously, the renowned Archmage Speigle has written "beware of purple worms" above the staircase from Level 2, so both characters and players are sufficiently forwarned. If you've somehow managed to attract solely players with no idea what purple worms are, Knowledge (arcana) is the key skill for magical beasts and can inform players of what they're up against; Knowledge (dungeoneering) would also concievably help.
 
 For some reason the stat block given in the module is a CR 10 purple worm, rather than their actual CR of 12 (and this isn't a 3.5 vs. 3.0 thing; they were CR 12 in 3.0 as well). If you're using the module's version you should probably make sure your players know that.
 
@@ -93,7 +93,7 @@ Even so, my group was deeply suspicious and I think they only went in the room b
 
 Springing the Trap
 
-I strongly suggest that you conspire with one of your players beforehand, if they're a halfway decent actor. Scramge targets paladins and clerics first, if you need help choosing a victim. Let them know what's going to happen and get their help in selling the dramatic death of their character. They technically get a Will save to resist the <em>veil</em> that Scramge drops on them - ask them if you can wave this to avoid derailing the encounter (most players, in my experience, will find it fun to be involved in the conspiracy).
+I strongly suggest that you conspire with one of your players beforehand, if they're a halfway decent actor. Scramge targets paladins and clerics first, if you need help choosing a victim. Let them know what's going to happen and get their help in selling the dramatic death of their character. They get a Will save to resist the <em>veil</em> that Scramge drops on them - perhaps ask them if you can wave this to have a bit more fun (most players, in my experience, will like to be involved in the conspiracy). But if you'd rather play by the rules, Scramge can just try again next round while the jackalweres keep the PCs busy. 
 
 As the PCs get more suspicious, give them Spot checks to notice that the jackalweres (however they're disguised) have been subtly fanning out and surrounding them. Then Scramge drops back and casts a spell as the weres shapeshift and attack. Pretend he's cast a summon, though it's really the <em>veil</em> spell.
 
@@ -125,7 +125,7 @@ If the players braved Level 3 early on, though, they're absurdly low level for t
 
 Version Conversion
 
-One of the main differences between 3.0 and 3.5 is how damage reduction is handled, and rakshasas got a major rework. In 3.0, which Rappan Athuk is using, rakshasas are specifically vulnerable to <em>blessed</em> crossbow bolts. In 3.5, they don't have this vulnerability but are instead vulnerable to good and piercing weapons (note "and," not "or").
+One of the main differences between 3.0 and 3.5 is how damage reduction is handled, and rakshasas got a major rework. In 3.0, which Rappan Athuk is using, rakshasas are specifically vulnerable to <em>blessed</em> crossbow bolts. In 3.5, they don't have this vulnerability, but their damage reduction is overcome by good and piercing weapons (note "and," not "or").
 
 This is something you'll run into a lot with Rappan Athuk. Broadly speaking, monsters in 3.5 had their damage reduction reduced and their hp/HD increased. I find that this leads to better balance in general. If you want to convert on the fly, a decent approximation is that if the module tells you a creature has DR 15 or greater, change it to DR 10/magic and multiply their hp by 1.5.
 

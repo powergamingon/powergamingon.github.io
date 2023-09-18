@@ -1,0 +1,29 @@
+I'd rather not begin two reviews in a row with complaints - but unfortunately The Three Faces of Evil is widely considered the worst of the 12 installments of Age of Worms. It's brutally difficult in ways which were probably unintended, and more prone to errors or continuity breaks than other parts of the adventure path. Here's a thread providing some common notes and cleanups for it.
+
+As an interesting tidbit, the author of The Three Faces of Evil is Mike Mearls, who would be hired by Wizards of the Coast a few years later and become a lead designer for the 4th and 5th Editions. One hopes he learned a few things in the intervening time! Or perhaps it's just that the details aren't his strong suit.
+
+Anyways, in sum, this adventure is an introductory-style mini-dungeon-crawl which has been bloated far too large. The problem is that D&D has a strong logistical element, which in 3E is based around recovering abilities during a long rest, yet there's nowhere to rest in the dungeon.
+
+I think DMs should discuss this more often than they seem to, because it's an enormous element of encounter balancing. Encounters that are easy at the start of the day can become harrowing at its end. If the PCs are assured they can rest frequently, they can freely use their most powerful spells and abilities, ending encounters quickly. If they need to settle in for the long haul, they may take risks to preserve those powers for later. And if they think they'll rest soon but are unexpectedly prevented from doing so, they may waste their resources too quickly and end up in deep trouble.
+
+This also effects the balance between classes - generically, magic-users have long-rest-based recovery while nonmagical characters have few, if any, time-limited resources. Facing one or two encounters in a day, the wizard can pull out all the stops, but the fighter will be able to keep going long after the rest of the party has been reduced to cantrips and quarterstaffs.
+
+(Of course, there are plenty of ways for smart players to upset this, shenanigans with the metamagic feat Persist Spell being the most common. But in general.)
+
+When you describe this adventure's dungeon - the home of the Ebon Triad cult - you can see the bones of a simple, four-room setup. There's an arena fight in the barracks of the followers of Hextor, a puzzle-solving section in the Labyrinth of Vecna, and a more complex fight through difficult terrain in the Caves of Erythnul. Finally the players must return for a boss fight in the central location. This would be a decent little introduction to D&D, almost like a tutorial dungeon or something you'd see in the Adventurer's League.
+
+But The Three Faces of Evil needs to take the players through three entire character levels. To add on more time and xp, each of areas is stretched with extra battles - yet no rest points have been added, forcing PCs to continue fighting through far more encounters than their resources can cover.
+
+Two main issues here. First, the temple is underground, accessible only via an elevator in a mineshaft, and PCs need to sneak or bribe their way into the mineshaft. That means it's nearly impossible to leave and return. Second, the temple consists entirely of interconnected, intelligent, communicating adversaries, meaning that it beggars belief that the PCs could rage through a single section and then pause for rest unmolested.
+
+Normally with my group of players I'm talking about how to make things harder! And there are a few changes I made for that, for instance by leveling up a few of the 1st-level mooks. But for once I was more concerned with giving my players a break. How to do that?
+
+First, when they met Balabar Smenk he helped supply them for their fight against the Triad. I included a caster level 9 scroll of <em>rope trick,</em> a spell that creates an invisible dimensional pocket. At a duration of 1 hour/level, my 3rd-level party couldn't cast this spell to get an entire long rest in, but careful use of the scroll allows them to effectively vanish for a single long rest, letting them get that crucial recovery in when they need it. My players have invested heavily in the Use Magic Device skill, so it's feasible for them to use a scroll of higher caster level than they are. If your party hasn't invested in UMD, it would be simple to create a single-use wondrous item for the same purpose, though I'm not aware of one existing in print.
+
+Second, I pushed them towards the Caves and Labyrinth when they were low on resources. Unlike the Battle-Temple of Hextor, these sections of the temple have secretive inhabitants and strong terrain barriers, making it harder for the other branches of the Triad to investigate. By covering their tracks and gettng lucky, players who learn the secrets of the Labyrinth could conceivably rest in one of its hidden rooms without being discovered, for instance.
+
+With a rest or two accounted for, the dungeon is no longer a death trap. It's still a grueling test of endurance. But the players have a fair chance.
+
+Even ignoring all that, the dungeon is of rather meh design - there's not much in the way of interesting structure, just three subsections to enter one after the other. Unlike the Whispering Cairn, there's little thought put into this as a place where the inhabitants obstensibly live, move around, and have a history.
+
+But the individual battles are great, with a lot of unique visuals and challenges. Most notably, a multi-level cavern where grimlock archers and assassins can harass the PCs as they attempt to scale cliffs and navigate stalagmites, and the laboratory of Vecna's followers where captured souls reach out from the pillars to grab any combatants that get too close. Read the description of the grimlock 
