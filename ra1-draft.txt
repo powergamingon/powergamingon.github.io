@@ -65,7 +65,7 @@ For some reason the stat block given in the module is a CR 10 purple worm, rathe
 
 If they're even vaguely aware of purple worms, the party will probably choose to avoid the area instead of going straight there from Level 2. If you followed my suggestion in the overview, the other exit from Level 2 will take them to the basilisks on 4A. Otherwise, they're a bit stuck between this and the Upper Temple on Level 4, and either way will be hiding rather than fighting for a bit.
 
-Despite its high-level inhabitants, Level 3 <em>can</em> be appropriate for a party that's only visited floors 0-2. This is an encounter structure that 3rd Edition and later versions of D&D mostly removed, but which was common previously. Sufficiently forwarned characters should choose care, stealth, and tactical retreats over a battle to the death. Walking softly and staying close to the walls will help players continue exploring while avoiding a worm-fueled TPK. Expect lots of <em>Dune</em> jokes. Given them level-appropriate XP if they manage it.
+Despite its high-level inhabitants, Level 3 <em>can</em> be appropriate for a party that's only visited floors 0-2. This is an encounter structure that 3rd Edition and later versions of D&D mostly removed, but which was common previously. Sufficiently forwarned characters should choose care, stealth, and tactical retreats over a battle to the death. Walking softly and staying close to the walls will help players continue exploring while avoiding a worm-fueled TPK, and appropriate Knowledge checks can help them think of these tactics. Expect lots of <em>Dune</em> jokes. Given them level-appropriate XP if they manage it.
 
 If you're playing with modern D&D players who aren't used to this, you may need to prod and reassure them a bit to get them to try it. Up to you if you want to.
 
@@ -93,9 +93,9 @@ Even so, my group was deeply suspicious and I think they only went in the room b
 
 Springing the Trap
 
-I strongly suggest that you conspire with one of your players beforehand, if they're a halfway decent actor. Scramge targets paladins and clerics first, if you need help choosing a victim. Let them know what's going to happen and get their help in selling the dramatic death of their character. They get a Will save to resist the <em>veil</em> that Scramge drops on them - perhaps ask them if you can wave this to have a bit more fun (most players, in my experience, will like to be involved in the conspiracy). But if you'd rather play by the rules, Scramge can just try again next round while the jackalweres keep the PCs busy. 
+I strongly suggest that you conspire with one of your players beforehand, if they're a halfway decent actor. Scramge targets paladins and clerics first, though depending on your party you may want to choose someone with a lower Will save. Let them know what's going to happen and get their help in selling the dramatic death of their character. They get a save to resist the <em>veil</em> that Scramge drops on them - perhaps ask them if you can wave this to have a bit more fun (most players, in my experience, will like to be involved in the conspiracy). But if you'd rather play by the rules, Scramge can just try again next round while the jackalweres keep the PCs busy. 
 
-As the PCs get more suspicious, give them Spot checks to notice that the jackalweres (however they're disguised) have been subtly fanning out and surrounding them. Then Scramge drops back and casts a spell as the weres shapeshift and attack. Pretend he's cast a summon, though it's really the <em>veil</em> spell.
+As the PCs get more suspicious, give them Spot checks to notice that the jackalweres, however they're disguised, have been subtly fanning out and surrounding them. Then Scramge drops back and casts a spell as the weres shapeshift and attack. Pretend he's cast a summon, though it's really the <em>veil</em> spell.
 
 Check the your conspirator's hp before the session, roll attacks in secret, and announce that an extremely unlucky string of criticals has done an amount of damage which - greatest of misfortunes - turns out to drop them below -10 hp immediately. Everyone else, roll initiative!
 
@@ -115,7 +115,7 @@ If you can communicate with your conspirator, you could also let them take actio
 
 Carefully read the rules on disbelieving illusions. Once the PCs interact closely with one, they start getting Will saves, which you should make in secret until they realize something's up. Distract them with the jackalweres to help it last longer. If you can pull this off, it will be a very memorable encounter.
 
-If the character covered by Scramge's illusion is knocked unconcious or dies, the illusion over them either vanishes (if the party is getting wrecked and you want them to realize what's going on) or has to stay in one place to keep covering the character (to give just a hint that something funky is going on).
+If the character covered by Scramge's illusion is knocked unconcious or dies, the illusion over them has to stay in one place to keep covering the character (which may give just a hint that something funky is going on).
 
 Level Adjustment
 
@@ -127,7 +127,9 @@ Version Conversion
 
 One of the main differences between 3.0 and 3.5 is how damage reduction is handled, and rakshasas got a major rework. In 3.0, which Rappan Athuk is using, rakshasas are specifically vulnerable to <em>blessed</em> crossbow bolts. In 3.5, they don't have this vulnerability, but their damage reduction is overcome by good and piercing weapons (note "and," not "or").
 
-This is something you'll run into a lot with Rappan Athuk. Broadly speaking, monsters in 3.5 had their damage reduction reduced and their hp/HD increased. I find that this leads to better balance in general. If you want to convert on the fly, a decent approximation is that if the module tells you a creature has DR 15 or greater, change it to DR 10/magic and multiply their hp by 1.5.
+This is something you'll run into a lot with Rappan Athuk. Broadly speaking, monsters in 3.5 had their damage reduction reduced and their hp/HD increased, and the standard of DR being overcome by a certain level of weapon enhancement (/+1, /+2, etc.) was replaced with more general but varied conditions (/magic for any magic weapon, /good, /adamantine, and so on).
+
+I find that this leads to better balance in general. If you want to convert on the fly, a decent approximation is that if the module tells you a creature has DR 15 or greater, change it to DR 10/magic and multiply their hp by 1.5.
 
 Treasure
 
@@ -138,3 +140,39 @@ And a note
 As creatures taken from Hindu mythology, rakshasas are rather vulnerable to the 3rd Edition writers being fuckin' wierd about that, and unfortunately Rappan Athuk isn't a great example. The pseudo-harem scene is frustrating but easily avoided; also, among Scramge's posessions are silks, opium, and pipes (...I'm not sure if the writers are mixing up their mythologies or mixing up their racisms here). You probably just want to discard those; replace their value with the tapestries that he has hanging about, which aren't included in the treasure round-up. Or otherwise treat this as suits your group; just felt it necessary to give a heads-up.
 
 Problem 2.94 in the book! explain in words.
+
+
+  <div class="box">
+    <div class="content">
+      <p>All right, let's get started! My main goal here is to present information about each floor/chapter of Rappan Athuk. I'll especially be focusing on modifications I made, why I made them, and how they helped (or hindered) me in keeping the dungeon interesting and challenging for a group playing at a very high power level.</p>
+
+      <p>By and large I'm going one floor at a time, but sometimes I'll combine a few due to length or topic. Here I'm addressing Level 0 and Level 1, just because they're both fairly short.</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <h3 class="subheaders">Level 0: The Sunken Graveyard (EL 6)</h3>
+    <div class="content">
+      <p>Ah yes, the "dung monster."</p>
+
+      <p>Ok, honestly, most of the dungeon is better than these first two floors. The designers seem to have gotten the "arbitrary death traps" urge out of their systems early, and from here on the sailing is much smoother (though certainly not free of bumps). But these two encounters - the mausoleum trap and the "dung monster" - get a lot of publicity because many players don't make it any further!</p>
+
+      <p>The dung monster is a wierd DM-fiat sort of encounter based mostly on childish jokes. It's a mimic that haunts a set of pit toilets, and is, er, appropriately mutated. It's said to have gained its bizarre powers when an archmage had to go #2.</p>
+
+      <p>Yeah, idk, do what you want with this one.</p>
+
+      <p>The dung monster is the absolute worst of Rappan Athuk's unclear understanding of 3E rules, which is why it's a shame that it's encountered so early. It's described as a mutated super-powerful mimic. Yet despite its CR 6 designation, it has SR 50 and DR 25/+5. There's also no method given for bypassing its Regeneration 5. It some senses, it's actually harder to kill than a tarrasque!</p>
+
+      <p>But none of that really matters much, because the actual purpose of this encounter is that the players enter a mysterious room, probably at least one of them dies, and then they run away. The stats don't matter because the outcome is prewritten.</p>
+
+      <p>I do think it's good to keep some kind of exceptional encounter here. Rappan Athuk players should be willing to run when necessary, and now is a good time to make sure they know that. And mimics are a fantastic, classic monster that makes for a great early encounter. Whether the dung monster is the right shape for it depends mostly on how funny you think poop jokes are.</p>
+
+      <p>The lazy option: use the stats as listed, but change the DR to 10/magic, the SR to 20, and the Regeneration to Fast Healing (which I think is what the writers intended anyways). Use 10/epic if you want to challenge a more resourceful party. It will still be very difficult for a low-level party to damage the creature, but it's more like an actual CR 6 encounter.</p>
+
+      <p>You could also check out the advancement rules in the Monster Manual and jack up a regular mimic to about 12 HD. However, I prefer to keep the special acid and engulfment abilities, as they make for a more flavorful and terrifying encounter.</p>
+
+      <p>Besides some nice if inexplicable set pieces (the priests have left the players a poisoned tarot deck to find), the main plot on this floor is the most classic low-level D&D monster: rats! In this case, the 1d3 dire rats come with wererat leaders, and it's a fun ambush encounter with multiple types of combatants and a barricade/cover challenge. It starts with a wererat pretending to be a beautiful woman, lost and scared and asking for help. This will probably fool your players for approximately a millisecond, but it's fun.</p>
+
+      <p>And that's about it, as level 1 is appropriately the most straightforward level of the dungeon.</p>
+    </div>
+  </div>
