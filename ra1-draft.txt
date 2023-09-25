@@ -59,7 +59,7 @@ Once Marthok is wounded and attempts to flee, his rantings might cause PCs to pa
 
 --
 
-Level 3 is pretty interesting. It has the potential to be very deadly, but PCs heading straight there probably shouldn't be outright engaging with most of the inhabitants. As mentioned previously, the renowned Archmage Speigle has written "beware of purple worms" above the staircase from Level 2, so both characters and players are sufficiently forwarned. If you've somehow managed to attract solely players with no idea what purple worms are, Knowledge (arcana) is the key skill for magical beasts and can inform players of what they're up against; Knowledge (dungeoneering) would also concievably help.
+Level 3 is pretty interesting. It has the potential to be very deadly, but PCs heading straight there shouldn't be outright engaging with most of the inhabitants. As mentioned previously, the renowned Archmage Speigle has written "beware of purple worms" above the staircase from Level 2, so both characters and players are sufficiently forwarned. If you've somehow managed to attract solely players with no idea what purple worms are, Knowledge (arcana) is the key skill for magical beasts and can inform players of what they're up against; Knowledge (dungeoneering) would also concievably help.
 
 For some reason the stat block given in the module is a CR 10 purple worm, rather than their actual CR of 12 (and this isn't a 3.5 vs. 3.0 thing; they were CR 12 in 3.0 as well). If you're using the module's version you should probably make sure your players know that.
 
@@ -81,7 +81,7 @@ You can have a lot of fun with this. Let's go over it part by part.
 
 The Lure
 
-Unfortunately, despite the fun idea, the setups that the module suggests probably won't work. It gives three different <em>permanent image</em> setups, which it keys to different average party levels for some reason. I think the setups are supposed to balance how threatening they seem to parties of different levels, but they definitely don't. In brief, Scramge portrays himself and his servants as either a cleric who's imprisoned a bunch of werewolves, a human man being tortured by orcs, or a welcoming oracle-figure with pretty and scantily-clad attendants.
+Unfortunately, despite the fun idea, the setups that the module suggests probably won't work. It gives three different <em>permanent image</em> illusins, which it keys to different average party levels for some reason. I think the setups are supposed to balance how threatening they seem to parties of different levels, but they definitely don't. In brief, Scramge portrays himself and his servants as either a cleric who's imprisoned a bunch of werewolves, a human man being tortured by orcs, or a welcoming oracle-figure with pretty and scantily-clad attendants.
 
 The cleric-and-werewolves setup may work, but the other two don't really accomplish what they're suppposed to. The goal of this part is to get PCs to enter Scramge's rooms without immediately starting a fight. Scramge needs time to observe and replicate his victim, and he wants his jackalweres to surround the party and cut off their exit.
 
@@ -137,7 +137,7 @@ Scramge is a difficult encounter, but he has way too much treasure. PCs will get
 
 And a note
 
-As creatures taken from Hindu mythology, rakshasas are rather vulnerable to the 3rd Edition writers being fuckin' wierd about that, and unfortunately Rappan Athuk isn't a great example. The pseudo-harem scene is frustrating but easily avoided; also, among Scramge's posessions are silks, opium, and pipes (...I'm not sure if the writers are mixing up their mythologies or mixing up their racisms here). You probably just want to discard those; replace their value with the tapestries that he has hanging about, which aren't included in the treasure round-up. Or otherwise treat this as suits your group; just felt it necessary to give a heads-up.
+As creatures taken from Hindu mythology, rakshasas are rather vulnerable to the 3rd Edition writers being fuckin' wierd about that, and unfortunately Rappan Athuk isn't a great example. The pseudo-harem scene is frustrating but easily avoided; also, among Scramge's posessions are silks, opium, and pipes. You probably just want to discard those; replace their value with the tapestries that he has hanging about, which aren't included in the treasure round-up. Or otherwise treat this as suits your group; just felt it necessary to give a heads-up.
 
 Problem 2.94 in the book! explain in words.
 
