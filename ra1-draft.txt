@@ -67,6 +67,8 @@ If they're even vaguely aware of purple worms, the party will probably choose to
 
 Despite its high-level inhabitants, Level 3 <em>can</em> be appropriate for a party that's only visited floors 0-2. This is an encounter structure that 3rd Edition and later versions of D&D mostly removed, but which was common previously. Sufficiently forwarned characters should choose care, stealth, and tactical retreats over a battle to the death. Walking softly and staying close to the walls will help players continue exploring while avoiding a worm-fueled TPK, and appropriate Knowledge checks can help them think of these tactics. Expect lots of <em>Dune</em> jokes. Given them level-appropriate XP if they manage it.
 
+To its credit, Rappan Athuk and its "1st Edition Feel" make it clear that this is how the level is intended to be used, though it's hampered by 3E's lack of inherent structure for this kind of thing and doesn't try to provide an alternative.
+
 If you're playing with modern D&D players who aren't used to this, you may need to prod and reassure them a bit to get them to try it. Up to you if you want to.
 
 There's a few interesting and less deadly encounters to be had as well; the party may run into goblin scouts (presumably from Grezneck, if you'd like to start pointing them towards the city) as well as priests of Orcus from the Upper Temple. This level also contains the Oracle, an evil skull that will perform divinations in exchange for magic items. I suggest making the Oracle neutral instead, partially so it has less motivation to lie to the players and partially so that parties with paladins or paladin-like characters don't feel obligated to destroy it. If the party talks to the Oracle, it's a great way for you to dispense dungeon rumors and clue them to directions you want them to take.
@@ -74,6 +76,8 @@ There's a few interesting and less deadly encounters to be had as well; the part
 However, none of that is why I'm here. I'm here for my favorite encounter in the entire dungeon.
 
 Scramge the Rakshasa and his "jackalwere" servants inhabit rooms 3-5A through C. Scramge is mostly a reguar rakshasa who has been endowed with the ability to create perfect illusions as a caster level 11 sorcerer - this is done via at-will castings of the 6th-level spells <em>permanent image</em> and <em>veil.</em> He can make his rooms look however he wants, and can freely change the appearance of any person. His illusions can also target all senses even if the spell normally wouldn't.
+
+(It's noticeable and nice that the writers actually used existing 3E mechanics to accomplish this, instead of just giving Scramge an arbitrary and unbeatable ability. We'll see more than enough examples of the latter, so credit where it's earned.)
 
 The suggested tactic is for Scramge to lure in the PCs, then create an illusion where one of them is killed by a demon or other summoned creature. In reality, the illusion of the summon covers the character he pretended to kill, so that when the rest of the party attacks the illusion they actually injure their own companion!
 

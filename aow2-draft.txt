@@ -8,11 +8,11 @@ I think DMs should discuss this more often than they seem to, because it's an en
 
 This also effects the balance between classes - generically, magic-users have long-rest-based recovery while nonmagical characters have few, if any, time-limited resources. Facing one or two encounters in a day, the wizard can pull out all the stops, but the fighter will be able to keep going long after the rest of the party has been reduced to cantrips and quarterstaffs.
 
-(Of course, there are plenty of ways for smart players to upset this, shenanigans with the metamagic feat Persist Spell being the most common. But in general.)
+(Of course, there are plenty of ways for smart players to upset this. But in general.)
 
 When you describe this adventure's dungeon - the home of the Ebon Triad cult - you can see the bones of a simple, four-room setup. There's an arena fight in the barracks of the followers of Hextor, a puzzle-solving section in the Labyrinth of Vecna, and a more complex fight through difficult terrain in the Caves of Erythnul. Finally the players must return for a boss fight in the central location. This would be a decent little introduction to D&D, almost like a tutorial dungeon or something you'd see in the Adventurer's League.
 
-But The Three Faces of Evil needs to take the players through three entire character levels. To add on more time and xp, each of areas is stretched with extra battles - yet no rest points have been added, forcing PCs to continue fighting through far more encounters than their resources can cover.
+But The Three Faces of Evil needs to take the players through three entire character levels. Each of areas is stretched with extra battles - yet no rest points have been added, forcing PCs to continue fighting through far more encounters than their resources can cover.
 
 Three main issues here.
 
@@ -36,4 +36,10 @@ But the individual encounters are great, with a lot of unique visuals, challenge
 
 The standout is the multi-phase encounters in the grimlock caverns. The writers were brave enough to go 3D with their cave design, and the result is complicated but well worth the effort. Stalagmites provide a lot of cover to work around. A multi-level area lets grimlock archers harass the PCs as they're forced to navigate climbing up and down cliffs. If clever players find a way to the archer's balcony directly, they must navigate tight tunnels and precarious rope bridges instead. 
 
-I do wish they'd managed to be a little more clear on the structure - maps of this area are lacking. But a couple read-throughs
+I do wish they'd managed to be a little more clear on the structure - maps of this area are lacking. But a careful read is well worth the effort.
+
+While the details can be a bit off, I will praise the general layout of the module. It gives good information on how the inhabitants work together and respond to the PCs' presence, and uses clearly labeled summaries/sidebars instead of trapping key information under specific room entries. Again, running such a sprawling organization is a lot of work, but the reward is worth it.
+
+Relatedly, my main advice for running this module should probably be about the organization of the introduction. It's... confusing. As far as I can tell, the goal is to provide a link to the previous module, The Whispering Cairn, while also allowing groups to pick up the adventure path here (which makes sense for a serial publication). But instead of clearly labeling different possible approaches, the introduction provides information all at once. It ends up giving the impression that PCs should be simultaneously working with three or four different factions, each of which has a convoluted reason to suddenly be interested in the Triad.
+
+Don't take this section as a foolproof description of the state of affairs at the start of the adventure. Just use whatever follows most naturally from the previous part of your campaign, and let the other players stay out. Likely that means Smenk following up with whatever the PCs learned from Filge; Allustan probably has no reason to be involved at this point. The information regarding his investment in affairs is probably intended mostly for players who didn't run Whispering Cairn and thus who have no connection to Filge or Smenk.
