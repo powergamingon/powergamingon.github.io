@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+<!--
+NOTE: For now, if you use this page in a subfolder, you'll need to add "../" in front of symbolic links (style.css, dragon-vibe-green.gif, any others you add), or iterate that for subsubfolders, etc.
+
+There's a conflict between trying to link to pages in a way that works during offline editing/testing, and doing it in a way that works online. Going straight to the root ("/style.css") doesn't work unless you've put the github repository in your computer's root (why have you done that?), and a hardcoded link ("https://www....") only retrieves the online, published version of the file.
+-->
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Powergaming: On</title>
+ 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+    <link href="../style.css" rel="stylesheet" type="text/css" media="all">
+
+  </head>
+ 
+<body>
+
+  <div class="headerwrapper">
+    <div class="header">
+      <h1 class="title">Powergaming: On</h1>
+    </div>
+    <div class="nav">
+    <ul>
+      <li><a href="https://powergamingon.github.io/">Home</a></li>
+      <li><a href="https://powergamingon.github.io/gamemaster.html">Reviews & Retrospectives</a></li>
+      <li><a href="https://powergamingon.github.io/players.html">Player Corner</a></li>
+      <li><a href="https://powergamingon.github.io/credits.html">Credits</a></li>
+    </ul>
+    </div>
+  </div>
+
+  <div class="mainwrapper">
+
+  <a href="https://powergamingon.github.io/ezrin/index.html" style="text-decoration: none; font-size: 20px">
+  <div class="box" style="max-width: 200px;">
+      <p>&larr; Back</p>
+  </div>
+  </a>
+
+  <div class="box">
+    <h3 class="subheaders">From Courage to Carnage: Building a Bard for Damage Output</h3>
+    <div class="content">
+      <p>We all know how a Bard works. Classic buff character, that +1 or +2 <i>inpsire courage</i> is pretty nice. Good for an occasional "ooh, because of the +1 that hits!" moment. Useful to have around, if you have the desire to play a diplomat or you want to be a support caster but gave up on sorcerer/wizard for some reason.</p>
+      <p>Anyway, here's how to make your Bard, by proxy, the biggest damage-dealer in the party.</p>
+    </div>
+  </div>
+
+  <div class="box">
+    <h3 class="subheaders">The Build</h3>
+    <div class="content">
+		<p>This build relies on bumping your <i>inspire courage</i> bonus into the stratosphere. <i>Courage</i> is an excellent buff in general, and worth the standard action even before getting cheesy.  It applies to every ally in hearing range, no cap, so the bigger your party the better your bard (a bard with an army wouldn't even have to resort these measures to easily output massive damage, but that's neither here nor there for most PCs). It's a morale-type bonus, which is unusual typing almost exclusive to bards that thus stacks with most other buffs your party might find, and it gives a blanket increase to both attack and damage. Your party's DPS can even pull a fun trick like using the feat Power Attack to effectively pull the to-hit bonus over to damage and double the smack. Excellent! We can do better.</p>
+
+		<p>The Courage bard is based off of two key tricks:
+		<p>1. Base PHB, there's basically no way to change your <i>inspire courage</i>, and thus every supplement that had the bright idea to add one thought that it was the first and didn't bother to control power creep with buff typing.
+		<p>2. A few story-dependent feats and items that you will have to negotiate with your DM over.</p>
+
+		<p>Because of this, every <i>inspire courage</i> buff is untyped and they all stack, and every supplement for Bards out there gives a fun little way to bump up that bonus. Here's the build:</p>
+
+		<p>1. 2nd level: <i>inspirational boost</i> spell</p>
+		<p>2. 3rd level: Song of the Heart feat</p>
+		<p>3. 6th level: Words of Creation feat</p>
+		<p>4. Along the way: Badge of Valor item</p>
+
+		<p>Your sources are Complete Adventurer for the spell, Eberron campaign setting for Song of the Heart, the Book of Exalted Deeds for the Words of Creation, and the Magic Item Compendium for the Badge of Valor (not the item by the same name listed in Complete Adventurer). You'll need high Cha (done) and high Int (worthwhile for a skill monkey class), and as discussed later this build also encourages high Con. Other than that, you'll note that all of this can easily be grabbed by 6th level, and a Badge of Valor costs barely over 1000 gp. This build is a steal.</p>
+
+		<p>You now have +7 <i>inspire courage.</i></p>
+    </div>
+  </div>
+
+  <div class="box">
+    <h3 class="subheaders">Finding your Courage</h3>
+    <div class="content">
+		<p>This easily outstrips pretty much any other attack/damage buff in the PHB and you can give it to all of your allies 3 times per day, and make it last as long as you're willing to sing (The limit is the 3/day Badge of Valor, but the item itself is so cheap that if you're playing that way, you could easily convince your DM to let you buy a pile and swap them out). If you level up to 20, the Bard's base courage bonus increases bring you up to +13. It's still excellent, though the early bonus is the real showstopper of this build.</p>
+
+		<p id="return1">The process works like this: swift action <i>inspirational boost</i> spell, standard action <i>inspire courage</i> boosted with the Words of Creation<a href="#footnote-1">[1]</a>, then immediately after your turn ends use an immediate action for magic item activation. Add in spells and skills like <i>harmonize</i> (the <i>Races of Stone</i> version) and the Melodic Casting feat and this buff doesn't even require a whole round to activate and keep up as long as you want. The Words of Creation specify no particular casting time, just that you invoke them while starting a Bardic Music effect, so this feat easily stacks with any other buff that lets you reduce the activation time. </p> 
+
+		<p>So what's the catch? Several of these increases are explicitly story-dependent. The bard I originally built this for happened to be playing in Eberron, but if you're not then your DM could rule out allowing an <em>Eberron Campaign Setting</em> feat. The Badge of Valor is technically an item from a set called the Regalia of the Hero, which is a lore-flavored set that you're supposed to quest to find, with knowledge checks to reveal locations. However, you're really only interested in this one badge out of the whole set. So my DM let me promise not to go after the complete set bonus and just treat this one badge like a normal item. If you can't convince your own DM, the badge could also be worked into a quest; it's a DC 25 Knowledge (arcana) or bardic knowledge check to learn a vague location, and DC 30 to uncover the specifics.</p>
+
+		<p>The biggest story feat, that you will have to talk to your DM about, is Words of Creation. This is an <em>Exalted</em> Deeds feat (already a book overflowing with bonkers roleplay requirements like "pretend your imaginary character is specifically not doing drugs") and thus has a whole ton of background. In my case, to satisfy the story requirements I compromised with my DM to delay the feat to 9th level, even though I can technically get it at 6. This tied it in to the party visiting the major magical hub of Sharn and thus being in an opportune place to learn mystical knowledge. Even if you can't get this feat, or delay it like me, the build is still worth it. A blanket +4 to attack and damage in every most fights is nothing to sneeze at around level 5. However, if you can talk the DM into letting you take this feat, it's worth it: the description of everything it lets you do is an entire page long, and if you're going a spellcaster route it also gives some nice buffs to Conjuration and Good spells.</p> 
+
+		<p>However, we're really here for the Words' Bardic Music buffs: by taking nonlethal damage equal to (requisite perform ranks)d4, you can double the effect of your music.  Unfortunately, this power is explicitly limited to the base PHB Bardic Musics, so no cheesing a doubled <i>song of arcane power</i> or <i>song of cosmic fire,</i> which would be great. But as shown, it's broken enough as written. You can double your <i>inspire courage</i> bonus by taking a mere 3d4 nonlethal damage any time you want to do it. The average 7-8 hp you take is extremely worth it.</p>
+
+		<p>Words of Creation also applies to <i>greatness</i> and <i>heroics</i>, letting you stack massive to-hit bonuses such that you can start getting your allies up to a cap of +17 to hit, +8 AC, and +8 to saving throws. However, these skills are less spam-able than <i>courage</i>, because you'll be taking 12d4 and 18d4 damage respectively to activate them. I've thus far found that they are not particularly attractive to use in combat - the bard's measly d6 hit die means that you can easily deal yourself almost half your HP to activate them, and without the items and feats that stack bonuses on for <i>courage</i>, you get less result for more pain. Nice options to have in your back pocket, but not really useful in every fight.
+
+		<p>A different interaction that <em>is</em> fun is going the Draconic Heritage route: by taking the Dragonfire Inspiration feat, you can convert your +X <i>inspire courage</i> bonus to +Xd6 damage from weapons of any elemental type, according to your dragon heritage. Since this feat explicitly is still <i>inspire courage</i>, just transmuting where the bonus goes after being cast, then arguably the Words apply and you can give your friends +13d6 damage. I didn't go this route because of character choices, mostly, but if you're minmaxing then the average of +45 damage per hit is clearly the right choice. Fighters rarely need the attack buff.</p>
+
+		<p>In addition to all of the combat buffs, you can get some quite nice enhancements to your non-buffing musics: +4 sacred bonus to any bardic music-related perform check, +2 to the DCs for <i>suggestion</i> and <i>dominate</i>, and +2 CL for your <i>song of freedom</i>. This is why I recommended earlier that you keep your Con fairly high; besides being generally a good idea, you're building a "damage for damage" character and thus being sturdy will be necessary. The more hp you have, the more you can mock your enemies.</p>
+
+		<p>It's worth noting that there are a few ways to mitigate this damage. The <i>share pain</i> psionic power or similar damage-sharing abilities can let you offload some of the damage to a friend, and getting any sort of healing item (my party is fond of belts of healing) or fast healing will help you use your higher-level boosts more frequently. The 3rd-level Bard spell <i>refreshment</i>, which heals all nonlethal damage, is normally laughably bad but will be incredible for you specifically. Finally, nonlethal damage is healed in parallel to regular, so any normal healing item will help you. There's also a million ways to become immune to nonlethal damage, but if you try then I'm not responsible for your DM nuking you off the face of the planet (also, it's a very reasonable ruling that a sacrifice-dependent effect cannot activate if there was no actual sacrifice).</p>
+
+		<p id=return2>But if you accomplish all of that, you can easily become the biggest damage-dealer in the party. This bonus is explicitly limited to weapon damage, so there are a few drawbacks, and you're going to be next to useless for a spellcaster. The wording of <i>inspire courage</i> (and later clarified in <em>Complete Arcane</em>) specificies that it applies to all <em>attacks</em> but specifically only to <em>weapon</em> damage (why? probably something to do with multiattack spells like <i>scorching ray</i> not being overpowered). This means that touch attack spells get a bonus to-hit, useful for low-BAB friends, but they don't get the extra damage. Boo. However, just on the party DPS, 5 attacks per round have the potential to be dealing an extra 65 damage total because of you, or an insane +225 if you're going the Dragonfire route. And you can do this to everyone in hearing range, and keep it up as long as you can convince your DM you can play for.<a href="#footnote-2">[2]</a>
+    </div>
+  </div>
+
+  <div class="box">
+    <h3 class="subheaders">Playing with Courage</h3>
+    <div class="content">
+		<p>So what is gameplay like for the Courage Bard? I've found a few consequences fall out from spending so many resources on one ability. Namely, your <i>inspire courage</i> bonus is so ludicrously good compared to anything else you could be doing that it dominates your tactics. I've paid attention - with the starting +7 bonus, just by starting late in the turn order I can easily cause my party to "lose" 70 damage in a round between missed to-hit and lost buffs. Against high-AC enemies, you can make or break a battle. Starting your song and keeping it up is prioritized over anything else. This is fun, because you get to deal a ton of proxy damage and you are a wildly valuable member of the party. The less fun parts are that your first round of combat is pretty much always tactically determined, which is boring, and you incentivize your allies to always delay their turn until after you can act, which is annoying. That said, here's my tips for having fun with the rest of the build.</p>
+
+		<p>Getting a high initiative is wildly more valuable to you than to a normal bard. Barring maneuvering around enemies, it's almost always worth it for your allies to delay their turn until after you act. Doing your part to end up high in the initiative order will help everyone. If you can pick up a high dex or the Improved Initiative feat, you will absolutely get high returns.</p>
+
+		<p>Next is your spells. We've established that no buff is going to equal your <i>inspire courage</i>, so the bard's normal repertoire of buff spells is going to be less attractive to you. Look for spells that increase speed and ability scores to get versatility. Your output from <i>courage</i> quickly outstrips any damaging spell available to the bard, so that's also a less fun avenue to go down (just keep yourself entertained by adding up how much damage you're doing through your allies). Instead, I've found that my spells are better spent on defense. Even if the damage is small, starting every combat by whacking yourself over the head is not ideal. The first several combats in which I employed Words of Creation uniformly ended in me passing out from accumulated damage. Remember, you are effectively subtracting from your max hp - any regular damage you take adds on to your nonlethal damage. Spells like <i>alter self</i>, <i>mirror image</i>, <i>invisibility,</i> and <i>blink</i> will help keep you alive. Movement spells like <i>dimension door</i> and <i>freedom of movement</i> will keep you safe in sticky situations, and provide additional defense against those pesky enemies with supernatural <i>true sight.</i> A fun bard combo is to pick up the 1st-level spell <i>ventriloquism</i> to let you throw your voice (for hours/lvl!), then use <i>invisibility</i> to let your music come from anywhere but the square you're standing in. This spell is wildly not worth it for an adventuring bard to pick up when they initially get access to 1st level spells, but at higher levels this spell will last an entire day and its situational uses are much easier to spend a precious spells known slot on. Since a bard is largely casting buffs and illusions, not acting offensively, you won't end up dispelling your <i>invisibility</i> as quickly as most characters and can spend many fights completely undetectable.</p>
+
+		<p id="return3">Finally, any feat or spell that lets you use music in less than a standard action will get you some nice options. <i>Harmonize</i> and <i>greater harmonize</i> are excellent, since they let you start music as a move action and then use your standard action to stack on a fun spell. If you can prepare for combat a few minutes ahead, it's worth casting them. If you want to go the bladesinger route and pick up some <em>Tome of Battle</em> maneuvers, the <em>Song of the White Raven</em> lets you start bardic music as a swift action (though watch out for the action economy, since you only get one swift/immediate action per round). Draconic bladesinger who can sheathe their sword in fire for +10d6 damage and then attack in the same round<a href="#footnote-3">[3]</a>? Yeah, worth it. Finally, a few feats, namely Lingering Song and Melodic casting, let you keep up music longer than normal. That said, the base duration is 5 rounds, which is far more than enough for the vast majority of combats (especially combats with a +13 damage bonus). I have not generally found duration to be a huge problem to solve, so I haven't bothered to spend a lot of resources on it.</p>
+    </div>
+  </div>
+
+   <div class="box">
+    <h3 class="subheaders">Go Forth and Sing</h3>
+    <div class="content">
+		<p>So, if you're enjoying what you've read here, go forth with your overpowered build. Torture DMs everywhere. Have fun. Raise an army of 1st level peasants who inexplicably have flaming farm hoes. Conquer empires. Get a <em>Song and Silence</em> alphorn to inspire everyone within 1d10 <em>miles</em>. Use the goddamn horn rules for another +2 inspire courage. And at this rate I'm just giving my DM ideas, I'm going to stop here.</p>
+    </div>
+  </div>
+
+    <div class="box">
+    <h3 class="subheaders">Footnotes</h3>
+    <div class="content">
+      <p id="footnote-1">[1] Note that as written, it's unclear what order these buffs should be applied in: you could rule that the doubling only applies to your base bonus, not to the temporary buffs, and thus you should be sitting at a mere +6. However, because it's unclear, the errata have officially stated that you should apply the doubling in the order most beneficial to the player. Huzzah! +7. <a href="#return1"> back</a></p>
+	<p id="footnote-2">[2] If you need sources, I can personally attest that even a not-very-good orchestra player can regularly keep it up for 1 or 2 hours, and a professional in an orchestra or musical will be able to play for 4 hours or more. <a href="#return2"> back</a></p>
+      <p id="footnote-3">[3] This maneuver also lets <em>Tome of Battle</em> prestige classes stack with Bard levels to determine the level of your <i>inspire courage</i> bonus. The lower max bonus here is because of the action economy limiting how many of your buffs you can get up at once.<a href="#return3"> back</a></p>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="box">
+  <div class="content">
+  <p style="text-align:center">
+    <img src="../dragon-vibe-green.gif"
+    alt="Five green dragons seen from different angles, undulating gently.">
+  </p>
+  </div>
+  </div>
+  <!-- END FOOTER --> 
+
+ 
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('COMMENTBOXID', {sortOrder: 'oldest'})</script>
+
+</body>
+ 
+</html>
+
+
+
+
